@@ -18,6 +18,9 @@ public class CheckScript : MonoBehaviour
     int check1 = 0;
     int check2 = 0;
     int check3 = 0;
+    /// <summary>
+    /// ////////////////
+    /// </summary>
     // Use this for initialization
     void Start()
     {
